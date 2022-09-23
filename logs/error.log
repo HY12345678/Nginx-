@@ -1,0 +1,117 @@
+2022/09/22 15:08:36 [warn] 11104#12132: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:08:36 [warn] 16556#8512: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:10:49 [warn] 20520#20408: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:10:49 [warn] 8824#18492: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:11:03 [warn] 15680#10524: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:11:04 [warn] 3888#12156: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:16:18 [warn] 8660#22492: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:16:24 [warn] 1224#9408: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:16:27 [warn] 19712#19768: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:18:55 [warn] 22484#21276: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:18:58 [warn] 13212#11920: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:19:00 [warn] 20140#14260: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:19:02 [warn] 5972#11980: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:19:06 [warn] 18612#10828: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:33:00 [warn] 4404#21104: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:33:01 [warn] 11104#20716: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:56:37 [warn] 10024#21380: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:56:37 [warn] 20432#2040: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:56:38 [warn] 20028#8448: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:56:38 [warn] 17336#964: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:56:48 [warn] 6616#21104: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:57:04 [warn] 16892#8508: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 15:57:05 [warn] 7456#21120: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:03:12 [warn] 13664#20944: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:03:13 [warn] 21784#20616: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:06:55 [warn] 21476#18716: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:06:56 [warn] 17920#21748: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:10:55 [warn] 16324#17040: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:10:55 [warn] 12416#1732: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:11:02 [warn] 11724#20444: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:11:02 [warn] 1972#7148: only the last index in "index" directive should be absolute in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:45
+2022/09/22 17:11:07 [error] 1972#18552: *1 CreateFile() "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/dist/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /dist/ HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:11:13 [error] 1972#18552: *1 CreateFile() "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/dist/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:11:24 [error] 1972#18552: *1 CreateFile() "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/index" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:11:26 [error] 1972#18552: *1 CreateFile() "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/index" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:11:29 [error] 1972#18552: *1 CreateFile() "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/index" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:11:57 [error] 11000#7012: *1 "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/dist/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /dist/ HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:18:49 [warn] 6408#20836: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:18:49 [warn] 19332#21808: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:21:14 [warn] 19676#19684: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:21:14 [warn] 4248#21704: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:25:31 [warn] 22300#18640: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:25:31 [warn] 16556#11480: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:27:21 [warn] 14480#10028: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:27:22 [warn] 5996#18600: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:27:23 [warn] 10032#1316: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:27:24 [warn] 8992#10456: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:27:31 [warn] 8200#19836: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:27:31 [warn] 8792#10908: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:27:38 [error] 8792#22460: *1 rewrite or internal redirection cycle while internally redirecting to "/dist/index.html", client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:51:29 [warn] 17728#808: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:51:29 [warn] 5688#17192: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:52:16 [warn] 14368#16728: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:52:17 [warn] 22276#17592: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:52:22 [error] 22276#5416: *1 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:52:23 [error] 22276#5416: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 17:52:26 [error] 22276#5416: *2 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:52:27 [error] 22276#5416: *2 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 17:52:52 [warn] 20356#14760: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:52:52 [warn] 18344#1368: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:52:55 [warn] 14340#12848: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:52:55 [warn] 22120#18076: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:52:59 [warn] 3348#9872: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:53:00 [warn] 9264#21384: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 17:53:03 [error] 9264#13088: *1 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 17:53:04 [error] 9264#13088: *1 rewrite or internal redirection cycle while internally redirecting to "/dist/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:00:45 [warn] 21796#8180: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:00:45 [warn] 1348#22488: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:00:53 [error] 1348#20964: *1 rewrite or internal redirection cycle while internally redirecting to "/dist/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:01:16 [warn] 19232#10024: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:01:17 [warn] 5240#19880: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:01:21 [error] 5240#18096: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:01:25 [error] 5240#18096: *2 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:01:27 [error] 5240#18096: *3 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:01:27 [error] 5240#18096: *4 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:01:32 [error] 5240#18096: *5 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /dist/ HTTP/1.1", host: "localhost:8085"
+2022/09/22 18:01:33 [error] 5240#18096: *6 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/dist/"
+2022/09/22 18:01:51 [warn] 13604#7860: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:01:52 [warn] 20408#11576: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:01:55 [error] 20408#14904: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /dist/ HTTP/1.1", host: "localhost:8085"
+2022/09/22 18:01:55 [error] 20408#14904: *2 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/dist/"
+2022/09/22 18:01:59 [error] 20408#14904: *3 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:02:06 [warn] 7484#16876: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:02:07 [warn] 2832#16508: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:02:11 [error] 2832#13540: *1 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 18:02:11 [error] 2832#13540: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:02:40 [warn] 8416#11876: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:02:40 [warn] 18820#2324: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:02:43 [error] 18820#15044: *1 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 18:02:43 [error] 18820#15044: *1 rewrite or internal redirection cycle while internally redirecting to "/dist/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:02:46 [error] 18820#15044: *2 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 18:02:47 [error] 18820#15044: *2 rewrite or internal redirection cycle while internally redirecting to "/dist/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:03:15 [error] 1316#5172: *1 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 18:03:15 [error] 1316#5172: *1 rewrite or internal redirection cycle while internally redirecting to "/dist/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:03:49 [warn] 20236#11052: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:03:49 [warn] 18060#5904: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:03:53 [error] 18060#13836: *1 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 18:03:55 [error] 18060#13836: *1 directory index of "C:\Users\yw\Desktop\nginx-1.18.0/html/dist/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8085"
+2022/09/22 18:03:56 [error] 18060#13836: *1 rewrite or internal redirection cycle while internally redirecting to "/dist/index.html", client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2022/09/22 18:06:22 [warn] 20684#20160: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:06:22 [warn] 9260#3844: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:06:49 [warn] 14004#4600: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/22 18:06:49 [warn] 9096#6836: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:34:46 [warn] 9940#18104: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:34:46 [warn] 21776#17636: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:36:13 [warn] 22504#16148: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:36:13 [warn] 19764#23240: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:46:48 [warn] 6468#20176: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:46:48 [warn] 20616#15504: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:48:16 [warn] 8108#13812: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:48:17 [warn] 18484#21812: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:49:36 [warn] 20364#21244: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:49:36 [warn] 24052#6476: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:50:18 [warn] 18860#3904: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 10:50:18 [warn] 19384#15752: "user" is not supported, ignored in C:\Users\yw\Desktop\nginx-1.18.0/conf/nginx.conf:2
+2022/09/23 12:00:39 [crit] 18860#3904: CreateProcess("C:\Users\yw\Desktop\nginx-1.18.0\nginx.exe") failed (2: The system cannot find the file specified)
+2022/09/23 12:00:39 [alert] 18860#3904: could not respawn worker
